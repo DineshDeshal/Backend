@@ -1,0 +1,26 @@
+{
+  "name": "firstapi",
+  "version": "1.0.0",
+  "description": "my first api ever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DineshDeshal/FirstApi.git"
+  },
+  "keywords": [
+    "testing",
+    "api"
+  ],
+  "author": "DineshSharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DineshDeshal/FirstApi/issues"
+  },
+  "homepage": "https://github.com/DineshDeshal/FirstApi#readme",
+  "dependencies": {
+    "express": "^5.0.0-beta.2"
+  }
+}
